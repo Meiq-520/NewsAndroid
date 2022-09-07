@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">login_btn</string>
+    <string name="button2">register_btn</string>
+</resources>
